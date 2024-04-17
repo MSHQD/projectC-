@@ -14,6 +14,9 @@ class Figure{
   std::string getName() {
     return name;
   }
+  void info(){
+    std::cout << "This is a figure" << std::endl;
+  }
 };
 
 int main(){
