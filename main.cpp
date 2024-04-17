@@ -6,7 +6,9 @@
 
 class Figure{
 
+};
 
 int main(){
   std::cout << "hello" << std::endl;
 }
+
