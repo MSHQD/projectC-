@@ -8,8 +8,8 @@ class Figure{
  private:
   std::string name;
  public:
-  void setName(std::string n) {
-    name = n;
+  void setName(std::string name) {
+    name = name;
   }
   std::string getName() {
     return name;
